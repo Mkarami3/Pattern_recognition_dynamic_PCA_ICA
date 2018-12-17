@@ -1,4 +1,4 @@
-# ICA and Dynamic_PCA and 
+# DynamicICA and DynamicPCA
 Statistical procedure for visualizing the animated movies of patterns recognized by principal component analysis (PCA) and independent component analysis (ICA).
 This method is applied in a stochastic trubulent flow field in a vrotex, simulated exprimentally in WindEEE Dome facility at the Western University.
 
