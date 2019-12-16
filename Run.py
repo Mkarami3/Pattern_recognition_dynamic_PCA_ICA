@@ -15,7 +15,6 @@ Cp = Read_File(C=1)
 x,y = Grid_Gen(isPlot=False) 
 
 #Cp_interp = Interp_missing(write=True)
-Cp_interp = np.loadtxt('Cp_interp.txt')
 
 '''
 Execute PCA
