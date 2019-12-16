@@ -10,5 +10,5 @@ A slice of experimental data, named Cp_tap, is uploaded
 Thanks to Dr. Luigi Carassale in University of Genova for his great helps.
 
 # Visualization Results
-![](images/PCA_Mode%201.png)
+![](Img/PCA_Mode%201.png)
 
