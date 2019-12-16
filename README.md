@@ -8,3 +8,7 @@ The Cp_tap matrix contains the time history (60sec x 700Hz=42000 measurements) o
 A slice of experimental data, named Cp_tap, is uploaded
 
 Thanks to Dr. Luigi Carassale in University of Genova for his great helps.
+
+# Visualization Results
+![](images/PCA_Mode%201.png)
+
