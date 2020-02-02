@@ -1,6 +1,5 @@
 # Pattern recognition in a stochastic flow using dynamicPCA and dynamicICA
-Statistical procedure for visualizing the animated movies of patterns recognized by principal component analysis (PCA) and independent component analysis (ICA).
-This method is applied in a stochastic trubulent flow field in a vortex, simulated exprimentally in WindEEE Dome facility at the Western University, as part of my PhD thesis.
+The classical method for recognition of patterns in data is principal component analysis (PCA). However, this technique, which belongs to unsupervised machine learning algorithms, provides modes that are static in time. Dynamic-PCA, as a novel technique, can overcome this constraint and provide time evolutions of PCA modes. Here, as part of my PhD, I applied this technique to a stochastic surface pressure field of a simulated tornado vortex. Result shows an interesting phenomenon which cannot be easily captured by common visualization techniques such as smoke injection.
 
 # Data and Setup Description
 A floor panel with several pressure taps was used to measure the surface static pressure deficit. The center floor panel of the simulator with 413 static pressure taps distributed on concentric circles (with a maximum diameter of 56 cm) around the simulator centerline. Each tap was connected to a pressure scanner port using PVC tubing and each scanner can accommodate 16 pressure taps. However, not all ports on each scanner are used for measurements. 
