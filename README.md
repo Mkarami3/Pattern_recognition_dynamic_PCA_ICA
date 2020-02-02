@@ -12,6 +12,5 @@ Thanks to Dr. Luigi Carassale in University of Genova for his great helps.
 # PCA Modes
 ![](Img/PCA_Mode%201.png)
 
-# Dynamic-PCA Modes
 
 
